@@ -218,5 +218,3 @@ php artisan test
 <p align="center">
   Dibangun untuk membuat pelaporan kinerja lebih <strong>terukur</strong>, <strong>transparan</strong>, dan <strong>siap ditindaklanjuti</strong>.
 </p>
-#   S I P E K A - - - w e b - b a s e d - s y s t e m - i n f o r m a t i o n  
- 
