@@ -92,7 +92,7 @@ flowchart LR
 ### Instalasi
 
 ```bash
-git clone <url-repository-anda>
+git clone https://github.com/ahmadhusin2340304028-sys/SIPEKA---web-based-system-information
 cd sipaka
 composer install
 npm install
