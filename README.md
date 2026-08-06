@@ -26,8 +26,6 @@ SIPEKA dibangun bukan hanya sebagai formulir input. Aplikasi ini menunjukkan pen
 
 ## Tampilan aplikasi
 
-> Screenshot di bawah masih berupa placeholder. Ganti URL gambar dengan screenshot asli Anda menggunakan nama file yang sama agar README langsung siap tampil di GitHub.
-
 <p align="center">
   <img src="screenshot/dashboard_client.png" alt="Placeholder dashboard dan ranking SAW SIPEKA" width="100%">
   <br><sub><strong>Dashboard</strong> — ringkasan performa, ranking bidang, status pelaporan, dan agenda undangan.</sub>
